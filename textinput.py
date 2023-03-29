@@ -45,4 +45,4 @@ while True:
     input_rect.w = max(text_surface.get_width()+10,150)
     pygame.display.flip()
 
-    clock.tick(60)
+    clock.tick(45)
