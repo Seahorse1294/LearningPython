@@ -8,6 +8,7 @@ class FRUIT:
         self.pos = Vector2(self.x,self.y)
     
     def draw_fruit(self):
+        draw.
         # create a rectangle
         # draw the rectangle
 
